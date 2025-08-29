@@ -6,7 +6,7 @@ This repository contains the implementation and supplementary materials of the M
 - `Prototype_Learning_for_Frame_Semantic_Parsing_with_Transformers.ipynb`  
   Main Google Colab notebook implementing prototype-based learning methods for frame semantic parsing.
 - `frame_performance_appendix.xlsx`  
-  Supplementary appendix containing frame-wise performance statistics.
+  Supplementary appendix containing exemplar performance results.
 
 ## How to Run
 1. Open the notebook in Google Colab.  
